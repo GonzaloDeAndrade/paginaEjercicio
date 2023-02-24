@@ -1,0 +1,52 @@
+
+
+.miNav{
+    
+    height:100px;
+    display: flex;
+}
+
+.miNav2{
+    height: 60px;
+
+}
+.miNav3{
+    height: 300px;
+}
+.titulos{
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+}
+.cartaUno{
+    background-color: gray;
+}
+.cartaDos{ background-color: gray;}
+.cartaUnosh{
+    background-color: gray;
+    ;
+    padding-top: 60px;
+    padding-bottom: 120px;
+    
+}
+.cartaDosh{
+    background-color: gray;
+    ;
+    padding-top: 60px;
+    padding-bottom: 120px;
+    
+}
+.cartaTresh{
+    background-color: gray;
+    ;
+    padding-top: 60px;
+    padding-bottom: 120px;
+    
+}
+.bg-dark{
+    height: 300px;
+}
+.footerDos{
+    height: 50px;
+    background-color: black;
+}
